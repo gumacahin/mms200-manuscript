@@ -44,4 +44,4 @@ See https://www.tug.org/mactex/uninstalling.html
 Cleaning up GhostScript can be a difficult for macOS. An uninstall script is 
 provided. The script comes with ABSOLUTELY NO WARRANTY WHATSOEVER. By running it,
 you agree to take full responsibility for anything that happens to your computer
-as a result.  provided as well.  
+as a result.
