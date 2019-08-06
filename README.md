@@ -36,3 +36,12 @@ run `make` to execute all the steps above.
 Check that the output file `manuscript.pdf` is identical to [this](http://marcoenri.co/manuscript.pdf).
 
 Once the setup is confirmed to be correct replace the placeholder text.
+
+## Uninstalling LaTeX
+
+See https://www.tug.org/mactex/uninstalling.html
+
+Cleaning up GhostScript can be a difficult for macOS. An uninstall script is 
+provided. The script comes with ABSOLUTELY NO WARRANTY WHATSOEVER. By running it,
+you agree to take full responsibility for anything that happens to your computer
+as a result.  provided as well.  
